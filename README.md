@@ -71,7 +71,7 @@ Configured capacity of datanode with around 9GiB storage space.
 ![](11.png)
 
 Command to extend the capacity of datanode with size 3GiB
-lvextend --size +3G /dev/myvg/mylv
+command:-lvextend --size +3G /dev/myvg/mylv
 
 ![](12.png)
 
@@ -80,3 +80,4 @@ Finally, i have extended datanode storage space capacity with 3GiB.
 ![](13.png)
 
 
+Thank You !
